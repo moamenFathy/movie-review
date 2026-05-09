@@ -1,0 +1,22 @@
+body {
+  background: #18181b;
+  color: white;
+  font-family: sans-serif;
+}
+
+header {
+  text-align: center;
+  padding: 25px;
+}
+
+.reviews {
+  padding: 40px;
+}
+
+.review-card {
+  background: #27272a;
+  padding: 25px;
+  margin-bottom: 20px;
+  border-left: 5px solid gold;
+  border-radius: 8px;
+}
